@@ -8,7 +8,7 @@ public class List {
 	 private Element[] arr;
 	 private int listLength;
 	private List l;
-	
+	peivate int c0=0;
 	
 	
 	 public List emptyList() {
@@ -139,3 +139,4 @@ public class List {
 	
 	
 }
+
