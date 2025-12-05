@@ -2,6 +2,7 @@ package Exo;
 
 public class List {
 
+	 private int souheil;
 	
 	private static final int MAX_SIZE = 10000;
 	 private Element[] arr;
